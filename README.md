@@ -1,6 +1,6 @@
 ### Hi there ☕
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Go, Java
 - 📫 How to reach me: hollowellit@gmail.com
 
 ## Stats 
